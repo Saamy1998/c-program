@@ -7,8 +7,8 @@ Step 5: Enter the position where you want to insert the element.
 Step 6: Enter the value into that poition.
 Step 7: Cheak FOR condition.
 Step 8: If condition is true goto step 9 otherwise goto step 10.
-Step 9: student[i+1]=student[i] and goto step 7.
-Step 10: student[pos-1]= value.
+Step 9: a[i+1]=a[i] and goto step 7.
+Step 10: a[pos-1]= value.
 Step 11: Print final array after inserting the value
 Step 12: STOP.*/
 
