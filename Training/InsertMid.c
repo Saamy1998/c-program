@@ -19,20 +19,20 @@ int main(){
    printf("Enter no of elements in array=");
    scanf("%d",&size);
    printf("Enter %d elements are:\n",size);
-   for(i=0;i<size;i++)
+   for(i=0;i<size;i++)                                                        //for loop for getting the elements from user
    {
         scanf("%d",&a[i]);
    }
-   printf("Enter the position where you want to insert the element:");
+   printf("Enter the position where you want to insert the element:");        //enter the position of the element to be insert
    scanf("%d",&pos);
-   printf("Enter the value into that position:");
+   printf("Enter the value into that position:");                             //enter the value to add in the array
    scanf("%d",&value);
-   for(i=size-1;i>=pos-1;i--)
+   for(i=size-1;i>=pos-1;i--)                                                 //for loop for insert the element and update
    {
         a[i+1]=a[i];
    }
    a[pos-1]= value;
-   printf("Final array after inserting the value is\n");
+   printf("Final array after inserting the value is\n");                      //prints the final output
    for(i=0;i<=size;i++)
    {
         printf("%d\n",a[i]);
