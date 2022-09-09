@@ -1,5 +1,6 @@
 Date: 05/09/22
-  
+
+  DONE ALGORITHM, PROGRAM AND OUTPUT
   1) Print char and ascii value
   2) Get input using gets()
   3) Find num range
@@ -17,3 +18,38 @@ Date: 05/09/22
   15) Find bigest and lowest value in array
   16) Sort the Asc and desc wise in array numbers
   17) Remove the unique numbers
+
+Date: 08/09/22
+  DONE PROGRAM FROM BEGING
+  1)Arithmetic operations
+  2)Assigment operations
+  3)Relation operations
+  4)Logical operations
+  5)Increment and decrement
+  6)If, If else and nested if statement
+  7)For and While loops
+  8)String
+  9)Arrays in string and integer
+  10) Draw diamond diagram using array with number
+  11) Digital clock
+  12) Age calculator 
+  13) Simple calculator
+  PROGRAM IN FILE HANDLING
+  14) Write a program to read the file and print
+  15) Write a program to read the file and find number of lines in file
+  16) Write a program to find number of empty lines in file
+  17) Write a program to read the file and count the duplicate word
+  18) Read and write std records in file
+  19) Histogram
+  SQL BASICS AND QUERIES
+  20) To create, update and delete the table
+  21) Creating std mark list
+  22) 'Having' in mysql
+  23) 'Veiw' in mysql
+  24) 'Inner,Left and Right join' in mysql
+  GITHUB
+  25) Create repositories, update, edit and update and to commit
+  SOCKET
+  26) Basic soket program in cs50 online linux machine
+  
+  
