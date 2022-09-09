@@ -52,4 +52,8 @@ Date: 08/09/22
   SOCKET
   26) Basic soket program in cs50 online linux machine
   
-  
+ DATE:09/09/22
+  1) To List Files in Directory
+  2) To show Size of File
+  3) To copy one file and Write in another File using getchar
+  4) To write a Reverse Content of File
