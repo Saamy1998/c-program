@@ -1,0 +1,13 @@
+3.8 Goto and labels
+4.4 Scope Rules
+4.11 The C Preprocessor
+5.4 Address Arithmetic\
+5.6 Pointer Arrays; Pointers to Pointers
+5.11 Pointers to Functions
+5.12 Complicated Declarations
+6.4 Pointers to Structures
+6.5 Self-referential Structures
+6.7 Typedef
+6.9 Bit-fields
+8.5 Example - An implementation of Fopen and Getc
+8.7 Example - A Storage Allocator
