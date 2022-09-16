@@ -1,17 +1,30 @@
 1)Update c topics properly
+  https://github.com/Saamy1998/c-program/blob/8f6b181a21b445c4e8f4ed680d3c12901fead7ff/Training/c%20topics
 
 2)Other name for "Symbolic Constent"
+ Symbolic constant also known as constant identifiers
+  
 
-3)nl = nw = nc = 0;nl = (nw = (nc = 0));
+3)nl = nw = nc = 0; vs nl = (nw = (nc = 0));
+ Where nl=nw=nc=0 assign values from left to right  and nl=(nw=(nc=0)) assign value from right to left
+ 
+4)nl=(nw=(nc=if(a=0));
+ If a=0 then it returns value 1 and nc is assigned as 1 otherwise it returns 0 and nc is assigned as o, then nw is assigned as 0 and finally nl assigned as 0 
 
-4)Value of EOF
+5)Value of EOF
+ The value of EOF is"-1"
 
-5)Program on Array
+6)Program on Array
 
-6)Difference b/w call by value and call by reference
+7)Difference b/w call by value and call by reference
+ Call By Value: Value of an argument into the formal parameter of that function. Therefore, changes made to the parameter of the main
+ function do not affect the argument.
 
-7)Program on Character Array
+ Call by Reference: Both the actual and formal parameters refer to the same locations, so any changes made inside the function are 
+ actually reflected in actual parameters of the caller
 
-8)Character Array program with Max 40 charcter
+8)Program on Character Array
 
-9)Character Array program with 40 character in reverse
+9)Character Array program with Max 40 charcter
+
+10)Character Array program with 40 character in reverse
