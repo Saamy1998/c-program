@@ -3,9 +3,11 @@
 * Decision Control like if,if-else,if-elseif-if,switch-case
 * Loops in c (for,while,do-while)
 * Function and their types
-* String and Array
+* String
+* Array(Single dimensional and two dimensional array)
+* Predefined functions(strlen(),srtcmp(),tolower(),toupper(),sqrt(),cbrt()...)
 * Pointers
-* Structure
-* File handling
+* Structure 
+* File handling(To read,create and write a file , copy one to another , find no. of lines,empty lines and count the lines...)
 * Socket
 * Linux commands
