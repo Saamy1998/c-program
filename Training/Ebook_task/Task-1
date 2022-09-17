@@ -3,13 +3,12 @@
 
 2)Other name for "Symbolic Constent"
  Symbolic constant also known as constant identifiers
-  
 
 3)nl = nw = nc = 0; vs nl = (nw = (nc = 0));
  Where nl=nw=nc=0 assign values from left to right  and nl=(nw=(nc=0)) assign value from right to left
  
 4)nl=(nw=(nc=if(a=0));
- If a=0 then it returns value 1 and nc is assigned as 1 otherwise it returns 0 and nc is assigned as o, then nw is assigned as 0 and finally nl assigned as 0 
+ IF can't be declared to any variables. 
 
 5)Value of EOF
  The value of EOF is"-1"
