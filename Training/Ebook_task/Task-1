@@ -1,5 +1,5 @@
 1)Update c topics properly
-  https://github.com/Saamy1998/c-program/blob/8f6b181a21b445c4e8f4ed680d3c12901fead7ff/Training/c%20topics
+  "https://github.com/Saamy1998/c-program/blob/8f6b181a21b445c4e8f4ed680d3c12901fead7ff/Training/c%20topics"
 
 2)Other name for "Symbolic Constent"
  Symbolic constant also known as constant identifiers
@@ -15,6 +15,7 @@
  The value of EOF is"-1"
 
 6)Program on Array
+ "https://github.com/Saamy1998/c-program/blob/2831e7e920c286e1042426572e31da87d8744deb/Training/Ebook_task/array.c"
 
 7)Difference b/w call by value and call by reference
  Call By Value: Value of an argument into the formal parameter of that function. Therefore, changes made to the parameter of the main
