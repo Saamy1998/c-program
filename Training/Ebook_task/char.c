@@ -24,7 +24,7 @@ Step 1: START.
 Step 2: Initialize i.
 Step 3: Declare 0 to i.
 Step 4: Check WHILE condition for copying the line.
-Step 5: STOP.
+Step 5: STOP.*/
 
  #include <stdio.h>
  #define MAXLINE 1000 /* maximum input line length */
@@ -80,4 +80,4 @@ This is a sample
 This is the longest line in this statment
 C programming in character array
  
-Lngest line is= This is the longest line in this statment
+Lngest line is= This is the longest line in this statment*/
