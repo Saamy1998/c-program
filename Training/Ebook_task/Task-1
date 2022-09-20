@@ -2,7 +2,7 @@
   "https://github.com/Saamy1998/c-program/blob/8f6b181a21b445c4e8f4ed680d3c12901fead7ff/Training/c%20topics"
 
 2)Other name for "Symbolic Constent"
- Symbolic constant also known as constant identifiers
+ Symbolic constant also known as Macros
 
 3)nl = nw = nc = 0; vs nl = (nw = (nc = 0));
  Where nl=nw=nc=0 assign values from left to right  and nl=(nw=(nc=0)) assign value from right to left
