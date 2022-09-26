@@ -6,25 +6,25 @@ Step 4: If the user enters the number is from 1 to 7 then follows the below case
 Step 5: Switch(operation)
        a) case 1
             Print as Monday
-            Break he case
+            Break the case
        b) case 2
             Print as Tuesday
-            Break he case
+            Break the case
        c) case 3:
             Print as Wednesday
-            Break he case
+            Break the case
        d) case 4
             Print as Thursday
-            Break he case
+            Break the case
        e) case 5
             Print as Friday
-            Break he case
+            Break the case
        f)case 6
             Print as Saturday
-            Break he case
+            Break the case
        g) case 7
             Prints as Sunday
-            Break he case
+            Break the case
        h) default
             printf("Invalid input! Please enter week number between 1-7.")
 Step 6: STOP.*/
