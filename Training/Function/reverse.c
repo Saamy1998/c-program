@@ -12,7 +12,7 @@ Step 2: Declare total number of digits in number to digit((int) log10(num)).
 Step 3: Check IF num is equels to zero then return zero
 Step 4: Else return (num%10 * pow(10, digit)) + reverse(num/10)
 Step 5: Recursively call to get reverse of a number
-Step 4: STOP.*/
+Step 6: STOP.*/
 
 #include <stdio.h>
 #include <math.h>
