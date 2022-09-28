@@ -4,8 +4,8 @@ Step 2: Initialize two integer as strat and end
 Step 3: Declare the start range of the number from user.
 Step 4: Declare the end range of the number from user.
 Step 5: Print the even numbers by function printEven(int, int)
-Step 5: Print the odd numbers by the function printOdd(int, int)
-Step 6: STOP.
+Step 6: Print the odd numbers by the function printOdd(int, int)
+Step 7: STOP.
 
 Algorithm for printEven(int start, int end)
 Step 1: START.
@@ -13,7 +13,7 @@ Step 2: Check IF start is greater then end.
 Step 3: Return else Check IF the number is divisible by 2.
 Step 4: If it is true then print the value.
 Step 5: Recursively call to printEven to get next value
-Step 4: STOP.
+Step 6: STOP.
 
 Algorithm for printOdd(int start, int end)
 Step 1: START.
@@ -21,7 +21,7 @@ Step 2: Check IF start is greater then end.
 Step 3: Return else Check IF the number is not divisible by 2.
 Step 4: If it is true then print the value.
 Step 5: Recursively call to printOdd to get next value
-Step 4: STOP.*/
+Step 6: STOP.*/
 
 #include <stdio.h>
 
