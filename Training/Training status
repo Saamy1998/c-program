@@ -138,3 +138,16 @@ DATE: 27/09/22
   16) Write a C program to display all array elements using recursion.
   17) Write a C program to find sum of elements of array using recursion.
   18) Write a C program to find maximum and minimum elements in array using recursion.
+  
+ DATE: 29/09/22
+  1) Write a C program to read and print elements of array. - using recursion.
+  2) Write a C program to print all negative elements in an array.
+  3) Write a C program to find sum of all array elements. - using recursion.
+  4) Write a C program to find maximum and minimum element in an array. - using recursion.
+  5) Write a C program to find second largest element in an array.
+  6) Write a C program to count total number of even and odd elements in an array.
+  7) Write a C program to count total number of negative elements in an array.
+  8) Write a C program to copy all elements from an array to another array.
+  9) Write a C program to insert an element in an array.
+  10) Write a C program to delete an element from an array at specified position.
+  11) Write a C program to count frequency of each element in an array.
