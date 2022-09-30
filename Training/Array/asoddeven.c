@@ -62,8 +62,8 @@ int main()
 
 /*OUTPUT
 
-~/Array/ $ gcc -o ascend ascend.c
-~/Array/ $ ./ascend
+~/Array/ $ gcc -o asoddeven asoddeven.c
+~/Array/ $ ./asoddeven
 Enter size of the  array : 5
 Enter elements in array : 43
 56
