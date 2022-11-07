@@ -42,3 +42,15 @@ int main()
    }
    
 }
+
+/*OUTPUT
+Enter the size: 5
+12345
+Want to reallocat memory size(1/0): 0
+12345
+
+Enter the size: 7
+1234567
+Want to reallocat memory size(1/0): 1
+Enter the reallocat size: 15
+123456789101112131415*/
